@@ -1,0 +1,28 @@
+name: Mav Cadav
+favicon: null
+layout_spectrum: 0.20965654402971268
+typography_spectrum: 0.27332292846404016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9348765197210014
+  lightness: 0.8802375770173967
+  saturation: 0.8719733750913292
+  rhythmicContrast: 0.7440818783361465
+purpose: []
